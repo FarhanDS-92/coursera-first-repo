@@ -1,2 +1,2 @@
-# coursera-first-repo minor update!
+# coursera-first-repo
 practice account for learning git
